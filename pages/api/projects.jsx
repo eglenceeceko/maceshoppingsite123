@@ -37,7 +37,7 @@ export default async (req, res) => {
     },
     {
       id: 6,
-      image: "https://raw.githubusercontent.com/eglenceeceko/maceshoppingsite123/refs/heads/main/lib/Mace_Shopping_Logo.png",
+      image: "https://github.com/eglenceeceko/maceshoppingsite123/blob/main/lib/rainnw.png?raw=true",
       name: "Rain Network",
       description: "MaceShopping olarak Rain Network minecraft sunucusunun aktif olarak developerlik hizmetini yapmaktayız. Rain Network skyblock moduna sahip bir minecraft sunucusudur.",
       link: "https://discord.gg/8vRfQCQU",
