@@ -30,7 +30,7 @@ export default async (req, res) => {
     },
     {
       id: 5,
-      image: "https://raw.githubusercontent.com/eglenceeceko/maceshoppingsite123/refs/heads/main/lib/Mace_Shopping_Logo.png",
+      image: "https://github.com/eglenceeceko/maceshoppingsite123/blob/main/lib/ottomania.png?raw=true",
       name: "Ottomania",
       description: "MaceShopping olarak Ottomania minecraft sunucusunun aktif olarak developerlik hizmetini yapmaktayız. Ottomania towny moduna sahip bir minecraft sunucusudur.",
       link: "https://discord.gg/Xva7P5Dp",
