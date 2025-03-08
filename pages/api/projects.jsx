@@ -44,7 +44,7 @@ export default async (req, res) => {
     },
     {
       id: 7,
-      image: "https://raw.githubusercontent.com/eglenceeceko/maceshoppingsite123/refs/heads/main/lib/Mace_Shopping_Logo.png",
+      image: "https://github.com/eglenceeceko/maceshoppingsite123/blob/main/lib/339537a92d0cfc1ef78a9961c04711e4.png?raw=true",
       name: "The Cyrus TV",
       description: "MaceShopping olarak The Cyrus TV minecraft sunucusunun aktif olarak developerlik hizmetini yapmaktayız. The Cyrus TV towny moduna sahip bir minecraft sunucusudur.",
       link: "https://discord.gg/rjZnYtRMgR",
