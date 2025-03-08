@@ -9,7 +9,7 @@ export default async (req, res) => {
     },
     {
       id: 2,
-      image: "https://ugc.production.linktr.ee/6RJk9s2pQZ2yAdcxw3Ir_TXX2dLlNmwM2OFdf?io=true&size=avatar-v3_0",
+      image: "<img src="https://raw.githubusercontent.com/eglenceeceko/maceshoppingsite123/main/lib/Mace_Shopping_Logo.png" alt="Mace Shopping Logo">",
       name: "Iso Network",
       description: "MaceShopping olarak Iso Network minecraft sunucusunun aktif olarak developerlik hizmetini yapmaktayız. Iso Network towny moduna sahip bir minecraft sunucusudur.",
       link: "https://discord.gg/isonetwork",
