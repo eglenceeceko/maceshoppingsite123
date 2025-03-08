@@ -23,7 +23,7 @@ export default async (req, res) => {
     },
     {
       id: 4,
-      image: "https://raw.githubusercontent.com/eglenceeceko/maceshoppingsite123/refs/heads/main/lib/Mace_Shopping_Logo.png",
+      image: "https://github.com/eglenceeceko/maceshoppingsite123/blob/main/lib/SpeedyNW_Skyblock_Logo.jpg?raw=true",
       name: "SpeedyNW",
       description: "MaceShopping olarak SpeedyNW minecraft sunucusunun aktif olarak developerlik hizmetini yapmaktayız. SpeedyNW skyblock moduna sahip bir minecraft sunucusudur.",
       link: "https://discord.gg/49VsrUBM",
