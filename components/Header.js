@@ -2,7 +2,7 @@
 const items = [
         { icon: 'fab fa-instagram', link: 'https://instagram.com/umutxyp' },
         { icon: 'fab fa-telegram', link: 'https://t.me/umutland' },
-    { icon: 'fab fa-youtube', link: 'https://youtube.com/@umutxyp' },
+    { icon: 'fab fa-youtube', link: 'https://youtube.com/@maceshopping' },
     { icon: 'fab fa-facebook', link: 'https://facebook.com/umutxyp' },
     { icon: 'fab fa-github', link: 'https://github.com/umutxyp' },
   ]
@@ -22,7 +22,7 @@ const Header = () => {
     return <>
         <div className="w-full border-b-2 border-neutral-800/20 pb-2">
             <div className="flex flex-col md:flex-row w-full items-center md:justify-between">
-                <p className="font-semibold font-Poppins text-xl">UB</p>
+                <p className="font-semibold font-Poppins text-xl">MaceShopping</p>
                 <div className="flex items-center space-x-2">
                     {items.map(item => (
                         <a key={item.link} href={item.link} target="_blank" rel="noreferrer" className="flex items-center justify-center hover:bg-neutral-700/20 rounded-xl transition-all duration-150 p-2 px-3">
