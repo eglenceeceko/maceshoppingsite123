@@ -42,7 +42,7 @@ export default function Home() {
         </ul>
 <br></br>
         <h1><strong>PROJELERİMİZ</strong></h1>
-        <p><strong>MaceMC:</strong> Projelerimize projeler kategorimizden bakabilirsin. (<a href="https://maceshopping.vercel.app/projects" rel="follow" target="_blank">REFERANS</a>)</p>
+        <p><strong>Referans:</strong> Projelerimize projeler kategorimizden bakabilirsin. (<a href="https://maceshopping.vercel.app/projects" rel="follow" target="_blank">REFERANS</a>)</p>
         <p><strong>MaceMC:</strong> MaceShopping mağazasının resmi minecraft sunucusu. (<a href="https://discord.gg/dhXcFgaxr2" rel="follow" target="_blank">BAKIMDA</a>)</p>
 <br></br>
         <h1><strong>HEDEFLERİMİZ</strong></h1>
