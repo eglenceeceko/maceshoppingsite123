@@ -10,8 +10,8 @@ export default function Home() {
   return (
     <>
       <div className="py-20">
-        <p className="text-3xl text-white font-semibold text-center">Contact Me</p>
-        <p className="text-xl text-white/50 font-normal text-center mb-5">Other addresses where you can contact me.</p>
+        <p className="text-3xl text-white font-semibold text-center">İletişim Desteği</p>
+        <p className="text-xl text-white/50 font-normal text-center mb-5">Aşağıdaki adreslerden benimle iletişim kurabilirsin.</p>
         <div className=" flex justify-center flex-col items-center">
             <div className="max-w-lg w-full">
             <a target="_blank" rel="norefferer" href="https://discord.gg/dhXcFgaxr2">
