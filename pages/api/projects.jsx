@@ -2,7 +2,7 @@ export default async (req, res) => {
   const data = [
     {
       id: 1,
-      image: "https://avatars.githubusercontent.com/u/82614585?s=400&u=ae44c9641228c314076aa777b8257b153dd0eb35&v=4",
+      image: "https://github.com/eglenceeceko/maceshoppingsite123/blob/main/lib/kafkasyamc.jpg?raw=true",
       name: "KafkasyaMC",
       description: "MaceShopping olarak KafkasyaMC minecraft sunucusunun aktif olarak developerlik hizmetini yapmaktayız. KafkasyaMC birden fazla oyun moduna sahip bir minecraft sunucusudur.",
       link: "https://discord.gg/JfmhSXkrN9",
