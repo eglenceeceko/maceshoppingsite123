@@ -16,7 +16,7 @@ export default async (req, res) => {
     },
     {
       id: 3,
-      image: "https://ugc.production.linktr.ee/6RJk9s2pQZ2yAdcxw3Ir_TXX2dLlNmwM2OFdf?io=true&size=avatar-v3_0",
+      image: "https://github.com/eglenceeceko/maceshoppingsite123/blob/main/lib/pack.png?raw=true",
       name: "The Growing Darkness",
       description: "MaceShopping olarak The Growing Darkness modunun aktif olarak developerlik hizmetini yapmaktayız. The Growing Darkness bir minecraft İtemsadder mod içeriğidir. ",
       link: "https://discord.gg/9RVKwYHw",
