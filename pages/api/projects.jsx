@@ -12,8 +12,15 @@ export default async (req, res) => {
       image: "https://ugc.production.linktr.ee/6RJk9s2pQZ2yAdcxw3Ir_TXX2dLlNmwM2OFdf?io=true&size=avatar-v3_0",
       name: "Iso Network",
       description: "MaceShopping olarak Iso Network minecraft sunucusunun aktif olarak developerlik hizmetini yapmaktayız. Iso Network towny moduna sahip bir minecraft sunucusudur.",
-      link: "discord.gg/isonetwork",
-    }
+      link: "https://discord.gg/isonetwork",
+    },
+    {
+      id: 3,
+      image: "https://ugc.production.linktr.ee/6RJk9s2pQZ2yAdcxw3Ir_TXX2dLlNmwM2OFdf?io=true&size=avatar-v3_0",
+      name: "The Growing Darkness",
+      description: "MaceShopping olarak The Growing Darkness modunun aktif olarak developerlik hizmetini yapmaktayız. The Growing Darkness bir minecraft İtemsadder mod içeriğidir. ",
+      link: "https://discord.gg/9RVKwYHw",
+    },
   ];
   res.status(200).json(data);
 };
