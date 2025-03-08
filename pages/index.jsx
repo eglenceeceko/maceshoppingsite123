@@ -35,10 +35,10 @@ export default function Home() {
         <br></br>
         <h1><strong>SOSYAL MEDYA HESAPLARIMIZ</strong></h1>
         <ul>
-            <li><a href="https://facebook.com/umutxyp" target="_blank">* BAKIMDA - Facebook</a></li>
-            <li><a href="https://instagram.com/maceshoppingg" target="_blank">* maceshoppingg - Instagram</a></li>
-            <li><a href="https://discord.gg/dhXcFgaxr2" target="_blank">* BAKIMDA - Telegram</a></li>
-            <li><a href="https://youtube.com/maceshopping" target="_blank">* maceshopping - YouTube</a></li>
+            <li><a href="https://discord.gg/dhXcFgaxr2" target="_blank">* maceshopping - Discord Adresimiz</a></li>
+            <li><a href="https://instagram.com/maceshoppingg" target="_blank">* maceshoppingg - Instagram Adresimiz</a></li>
+            <li><a href="https://www.itemsatis.com/p/maceshopping" target="_blank">* maceshopping - Mağaza Adresimiz</a></li>
+            <li><a href="https://youtube.com/maceshopping" target="_blank">* maceshopping - YouTube Adresimiz</a></li>
         </ul>
 <br></br>
         <h1><strong>PROJELERİMİZ</strong></h1>
