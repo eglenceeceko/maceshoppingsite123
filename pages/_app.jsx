@@ -38,7 +38,7 @@ function MyApp({ Component, pageProps }) {
   return (<>
     <Head>
         <title>Mace Shopping</title>
-        <link rel="shortcut icon" href="https://ugc.production.linktr.ee/6RJk9s2pQZ2yAdcxw3Ir_TXX2dLlNmwM2OFdf?io=true&size=avatar-v3_0" type="image/x-icon" ></link>
+        <link rel="shortcut icon" href="https://github.com/eglenceeceko/maceshoppingsite123/blob/main/lib/Mace_Shopping_Logo.png?raw=true" ></link>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="https://pro.fontawesome.com/releases/v5.15.4/css/all.css" rel="stylesheet" />
 
