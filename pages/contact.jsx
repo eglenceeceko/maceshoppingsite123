@@ -29,7 +29,7 @@ export default function Home() {
                 <a target="_blank" rel="norefferer" href="https://www.itemsatis.com/p/maceshopping">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="https://github.com/eglenceeceko/maceshoppingsite123/blob/main/lib/images.png?raw=true" />
-                        <p className="font-semibold text-xl">Mace Shopping</p>
+                        <p className="font-semibold text-xl">Mağazamıza Gitmek İçin Tıkla!</p>
                     </div>
                 </a>
                 <a href="mailto:bakımda">
