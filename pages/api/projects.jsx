@@ -51,7 +51,7 @@ export default async (req, res) => {
     },
     {
       id: 8,
-      image: "https://github.com/eglenceeceko/maceshoppingsite123/blob/main/lib/339537a92d0cfc1ef78a9961c04711e4.png?raw=true",
+      image: "https://github.com/eglenceeceko/maceshoppingsite123/blob/main/lib/Mace_Shopping_Logo.png?raw=true",
       name: "MaceShopping Ticket Bot",
       description: "MaceShopping olarak Ticket Botumuzun aktif olarak developerlik hizmetini yapmaktayız. MaceShopping Ticket Bot Mace Shoppinge özel bir ticket discord botudur.",
       link: "https://discord.gg/rjZnYtRMgR",
