@@ -56,6 +56,13 @@ export default async (req, res) => {
       description: "MaceShopping olarak Ticket Botumuzun aktif olarak developerlik hizmetini yapmaktayız. MaceShopping Ticket Bot Mace Shoppinge özel bir ticket discord botudur.",
       link: "https://discord.gg/rjZnYtRMgR",
     },
+    {
+      id: 9,
+      image: "https://github.com/eglenceeceko/maceshoppingsite123/blob/main/lib/Mace_Shopping_Logo.png?raw=true",
+      name: "Aurealis Network",
+      description: "MaceShopping olarak Aurealis Network minecraft sunucunun aktif olarak developerlik hizmetini yapmaktayız. Aurealis Network towny moduna sahip bir minecraft sunucusudur.",
+      link: "https://discord.gg/aurealis",
+    },
   ];
   res.status(200).json(data);
 };
