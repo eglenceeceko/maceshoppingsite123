@@ -49,6 +49,13 @@ export default async (req, res) => {
       description: "MaceShopping olarak The Cyrus TV minecraft sunucusunun aktif olarak developerlik hizmetini yapmaktayız. The Cyrus TV towny moduna sahip bir minecraft sunucusudur.",
       link: "https://discord.gg/rjZnYtRMgR",
     },
+    {
+      id: 8,
+      image: "https://github.com/eglenceeceko/maceshoppingsite123/blob/main/lib/339537a92d0cfc1ef78a9961c04711e4.png?raw=true",
+      name: "MaceShopping Ticket Bot",
+      description: "MaceShopping olarak Ticket Botumuzun aktif olarak developerlik hizmetini yapmaktayız. MaceShopping Ticket Bot Mace Shoppinge özel bir ticket discord botudur.",
+      link: "https://discord.gg/rjZnYtRMgR",
+    },
   ];
   res.status(200).json(data);
 };
