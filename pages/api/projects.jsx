@@ -58,7 +58,7 @@ export default async (req, res) => {
     },
     {
       id: 9,
-      image: "https://github.com/eglenceeceko/maceshoppingsite123/blob/main/lib/Mace_Shopping_Logo.png?raw=true",
+      image: "https://github.com/eglenceeceko/maceshoppingsite123/blob/main/lib/minecraft_title.png?raw=true",
       name: "Aurealis Network",
       description: "MaceShopping olarak Aurealis Network minecraft sunucunun aktif olarak developerlik hizmetini yapmaktayız. Aurealis Network towny moduna sahip bir minecraft sunucusudur.",
       link: "https://discord.gg/aurealis",
