@@ -18,7 +18,7 @@ export default async (req, res) => {
       id: 3,
       image: "https://github.com/eglenceeceko/maceshoppingsite123/blob/main/lib/pack.png?raw=true",
       name: "The Growing Darkness",
-      description: "MaceShopping olarak The Growing Darkness modunun aktif olarak developerlik hizmetini yapmaktayız. The Growing Darkness bir minecraft İtemsadder mod içeriğidir. ",
+      description: "MaceShopping olarak The Growing Darkness modunun aktif olarak developer hizmetini yapmaktayız. The Growing Darkness bir minecraft İtemsadder mod içeriğidir. ",
       link: "https://discord.gg/9RVKwYHw",
     },
     {
@@ -46,8 +46,8 @@ export default async (req, res) => {
       id: 7,
       image: "https://github.com/eglenceeceko/maceshoppingsite123/blob/main/lib/339537a92d0cfc1ef78a9961c04711e4.png?raw=true",
       name: "The Cyrus TV",
-      description: "MaceShopping olarak The Cyrus TV minecraft sunucusunun aktif olarak developerlik hizmetini yapmaktayız. The Cyrus TV towny moduna sahip bir minecraft sunucusudur.",
-      link: "https://discord.gg/rjZnYtRMgR",
+      description: "MaceShopping olarak The Cyrus TV minecraft sunucusunun aktif olarak tasarım hizmetini yapmaktayız. The Cyrus TV towny moduna sahip bir minecraft sunucusudur.",
+      link: "https://discord.gg/4QUGpvvAc3",
     },
     {
       id: 8,
